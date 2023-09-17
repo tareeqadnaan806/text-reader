@@ -11,7 +11,7 @@ HTML/CSS
 
 ## concepts used
 SpeechSynthesisUtterance() -> it is a object to which we can set a text to read  
-speechSynthesis.speak() -> it is used to read the text
+speechSynthesis.speak() -> it is used to read the text  
 i use toggle to show and hide the toggle box
 
 ## Contribution:
